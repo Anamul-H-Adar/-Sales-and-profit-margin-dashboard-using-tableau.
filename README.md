@@ -1,5 +1,5 @@
 # Sales-and-profit-margin-dashboard-using-tableau.
-This dashboard is for a European automobile company runs business throughout Europe and USA. 
+
 A European automobile company runs business throughout Europe and USA. The company manufactures automobile production parts for several categories or types. Some moments the company sales director notice that many cities generated most of the revenue of the year but they didn't generate as much profit as should. To keep eyes on sales and profit the sales director planning to make a dashboard.
 
 it covers all the possible questions by the sales director.
